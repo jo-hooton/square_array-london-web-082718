@@ -1,4 +1,4 @@
 def square_array(array)
-  numbers.each do **
-    return
+  numbers.each do ** 2
+    return 
 end
